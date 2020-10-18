@@ -108,7 +108,7 @@ team:
 
       - name: "Shreshth Sharma"
         role: "Vice-President CS"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/shreshth
 
       - name: "Anisha Kumar"
         role: "Group Discussion"
@@ -124,11 +124,11 @@ team:
 
       - name: "Aviral Budhiraja"
         role: "Video Editing"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/aviral
 
       - name: "Diksha Sharma"
         role: "Poster Making"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/diksha
 
       - name: "Harshit Upreti"
         role: "Live Quiz"
