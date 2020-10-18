@@ -110,6 +110,46 @@ team:
         role: "Vice-President CS"
         image: assets/img/team/500x500.jpg
 
+      - name: "Anisha Kumar"
+        role: "Group Discussion"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Arnav Kamboj"
+        role: "InCrypt-[X]"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Aryan Srivastanva"
+        role: "Ideation"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Aviral Budhiraja"
+        role: "Video Editing"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Diksha Sharma"
+        role: "Poster Making"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Harshit Upreti"
+        role: "Live Quiz"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Ishi Jain"
+        role: "Surprise Event"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Naman Goel"
+        role: "Gaming"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Shreyas Srivastava"
+        role: "Surprise Event"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Vindhya Gupta"
+        role: "Relay Rush"
+        image: assets/img/team/500x500.jpg
+
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
