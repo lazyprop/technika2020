@@ -33,24 +33,24 @@ timeline:
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Hardeep Kaur"
+        #year: "2009-2011"
+        desc: "Principal"
         image: assets/img/timeline/1.jpg
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Vandana Mittal"
+        #year: "March 2011"
+        desc: "Computer Science HOD"
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Pawan Kumar"
+        #year: "2019"
+        desc: "Mathematics HOD"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Shaveta Saroch"
+        #year: "2009-2011"
+        desc: "Physics HOD"
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
@@ -82,41 +82,34 @@ clients:
     
 team:
     title: "Our Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    #text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Debjeet Ray"
+        role: "School Captain"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+
+      - name: "Sakshi Panigrahi"
+        role: "President Mathematics & Science"
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+
+      - name: "Ishaan Verma"
+        role: "President CS"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
           
+      - name: "Shivi Sharma"
+        role: "Vice-President Science"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Oorja Aggarwal"
+        role: "Vice-President Mathematics"
+        image: assets/img/team/500x500.jpg
+
+      - name: "Shreshth Sharma"
+        role: "Vice-President CS"
+        image: assets/img/team/500x500.jpg
+
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
