@@ -1,22 +1,21 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
+  title: InCrypt-[X]
   subtitle: subtitle
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: InCrypt-[X]
+subtitle: CS
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
-
+**Eligibility:** Open\
+**No. of Teams:** 1\
+**No. Of Participants:** ∞
+ 
+### Rules 
+- The hunt will commence at 7th Nov 12:00AM and conclude at 8th Nov 
+11:59 PM. 
+- Discord details will be provided for lead confirmation. 
