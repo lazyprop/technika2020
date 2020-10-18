@@ -1,6 +1,6 @@
 header:
-    title: Cambridge School Indirapuram Presents
-    text: Technika
+    title: "<b><font color='#FB33DB' size=15>Cambridge School Indirapuram Presents</font></b>"
+    text: "<font color='#ffaa01'>Technika</font>"
     button: Tell Me More
     buttonlink: "#services"
 
