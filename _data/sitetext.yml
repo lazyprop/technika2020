@@ -88,15 +88,15 @@ team:
     people:
       - name: "Debjeet Ray"
         role: "School Captain"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/debjeet
 
       - name: "Sakshi Panigrahi"
         role: "President Mathematics & Science"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/sakshi
 
       - name: "Ishaan Verma"
         role: "President CS"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ishaan
           
       - name: "Shivi Sharma"
         role: "Vice-President Science"
@@ -104,7 +104,7 @@ team:
 
       - name: "Oorja Aggarwal"
         role: "Vice-President Mathematics"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/oorja
 
       - name: "Shreshth Sharma"
         role: "Vice-President CS"
