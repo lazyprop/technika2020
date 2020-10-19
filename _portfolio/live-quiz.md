@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Live Quiz
   subtitle: Science
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: "assets/img/portfolio/quiz"
 
 #what displays when the item is clicked:
 title: Live Quiz
 subtitle: Science
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: "assets/img/portfolio/quiz"
 alt: image alt text
 
 ---

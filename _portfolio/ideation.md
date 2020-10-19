@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Ideation
   subtitle: Science
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/ideation
 
 #what displays when the item is clicked:
 title: Ideation
 subtitle: Science
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: "assets/img/portfolio/ideation" #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---

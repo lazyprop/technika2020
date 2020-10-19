@@ -1,8 +1,9 @@
 header:
-    title: "<b><font color='#FB33DB' size=15>Cambridge School Indirapuram Presents</font></b>"
-    text: "<font color='#ffaa01'>Technika</font>"
-    button: Tell Me More
-    buttonlink: "#services"
+    #title: "<b><font color='white' size=15>Cambridge School Indirapuram Presents</font></b>"
+    #text: "<font color='white'>Technika</font>"
+    title: "<br><br><br><br>"
+    #button: Tell Me More
+    #buttonlink: "#services"
 
 portfolio:
     title: "Events"
@@ -47,28 +48,10 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
 team:
     title: "Our Team"
     #text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Debjeet Ray"
@@ -97,7 +80,7 @@ team:
 
       - name: "Anisha Kumar"
         role: "Group Discussion"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/anisha
 
       - name: "Arnav Kamboj"
         role: "InCrypt-[X]"
@@ -141,7 +124,7 @@ contact:
     section: contact
     
 footer:
-    legal: "Privacy Policy"
+    #legal: "Privacy Policy"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  

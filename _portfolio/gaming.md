@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Gaming
   subtitle: CS
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/gaming
   
 #what displays when the item is clicked:
 title: Gaming
 subtitle: CS
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/gaming #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---

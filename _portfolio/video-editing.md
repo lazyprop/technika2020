@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Video Editing
   subtitle: CS
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/video-editing
   
 #what displays when the item is clicked:
 title: Video Editing
 subtitle: CS
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/video-editing
 alt: image alt text
 
 ---
