@@ -37,7 +37,7 @@ timeline:
       - title: "Shaveta Saroch"
         #year: "2009-2011"
         desc: "Physics HOD"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/shaveta
         alt: 
         # you can enforce the aligment
         align: right
@@ -68,7 +68,7 @@ team:
           
       - name: "Shivi Sharma"
         role: "Vice-President Science"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/shivi
 
       - name: "Oorja Aggarwal"
         role: "Vice-President Mathematics"
@@ -112,15 +112,15 @@ team:
 
       - name: "Shreyas Srivastava"
         role: "Surprise Event"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/shreyas
 
       - name: "Vindhya Gupta"
         role: "Relay Rush"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/vindhya
 
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    #text: "Lorem ipsum or call 123456789"
     section: contact
     
 footer:
