@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Essay Writing
   subtitle: Science
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/essay 
 
 #what displays when the item is clicked:
 title: Essay Writing
 subtitle: Science
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/essay  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---

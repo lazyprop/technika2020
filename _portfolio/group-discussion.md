@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Group Discussion
   subtitle: Science
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/group
 
 #what displays when the item is clicked:
 title: Group Discussion
 subtitle: Science
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/group #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---

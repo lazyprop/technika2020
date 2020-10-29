@@ -84,7 +84,7 @@ team:
 
       - name: "Arnav Kamboj"
         role: "InCrypt-[X]"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/arnav
 
       - name: "Aryan Srivastanva"
         role: "Ideation"
@@ -108,7 +108,7 @@ team:
 
       - name: "Naman Goel"
         role: "Gaming"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/naman
 
       - name: "Shreyas Srivastava"
         role: "Surprise Event"
