@@ -88,7 +88,7 @@ team:
 
       - name: "Aryan Srivastanva"
         role: "Ideation"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/aryan
 
       - name: "Aviral Budhiraja"
         role: "Video Editing"
@@ -100,11 +100,11 @@ team:
 
       - name: "Harshit Upreti"
         role: "Live Quiz"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/harshit
 
       - name: "Ishi Jain"
         role: "Surprise Event"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ishi
 
       - name: "Naman Goel"
         role: "Gaming"
