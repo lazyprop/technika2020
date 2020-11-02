@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: InCrypt-[X]
-  subtitle: subtitle
+  subtitle: CS
   thumbnail: assets/img/portfolio/incryptx
   
 #what displays when the item is clicked:

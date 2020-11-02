@@ -22,17 +22,17 @@ timeline:
       - title: "Hardeep Kaur"
         #year: "2009-2011"
         desc: "Principal"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/hardeep
         alt: 
       - title: "Vandana Mittal"
         #year: "March 2011"
         desc: "Computer Science HOD"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/vandana
         alt: 
       - title: "Pawan Kumar"
         #year: "2019"
         desc: "Mathematics HOD"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/pawan
         alt: image alt text
       - title: "Shaveta Saroch"
         #year: "2009-2011"
