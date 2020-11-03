@@ -23,7 +23,7 @@ and images.
 cloud storage (Google Drive/Dropbox) and email the link to
 technika.csi@gmail.com by 6th November 12 Noon.
 - The results of the prelims will be declared by 10th November, 2020.
-- **Preliminary Topic**: Plague 
+- **Prelims**
 1. Artwork Style- Digital Collage
 2. Raw file -https://drive.google.com/drive/folders/1JR8qaFcS_tnqqnq8yiwmB9jqHlGy456K?usp=sharing
 3. Participants are supposed to use the images of the models provided and make a digital collage.

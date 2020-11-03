@@ -11,7 +11,7 @@ image: assets/img/portfolio/mathgala
 alt: image alt text
 
 ---
-**Eligibility:** VI-VIII\
+**Eligibility:** XI-XII\
 **No. of Teams:** 1\
 **No. Of Participants:** 5-6
  

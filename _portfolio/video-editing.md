@@ -13,7 +13,7 @@ alt: image alt text
 ---
 **Eligibility:** IX-XII\
 **No. of Teams:** 1\
-**No. Of Participants:** 2
+**No. Of Participants:** 1
  
 #### Rules 
 ###### Prelims: 

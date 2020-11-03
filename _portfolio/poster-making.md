@@ -23,4 +23,4 @@ alt: image alt text
     * Design a poster of a drink commercial with the art style (Pop Art) 
 - The entries should are to be submitted by 6th November, 2020 (12 noon) 
 to technika.csi@gmail.com 
-- Softwares Allowed: GIMP, Pixlr X, Photoshop, MS Paint, Corel Draw,
+- Softwares Allowed: GIMP, Photoshop, MS Paint, Corel Draw,
